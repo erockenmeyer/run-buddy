@@ -12,3 +12,5 @@ https://erockenmeyer.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Erik Rockenmeyer
+
+### ©️2019 Run Buddy, Inc 
